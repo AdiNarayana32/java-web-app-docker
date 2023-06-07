@@ -41,14 +41,14 @@
 		<div class="col-md-8">
 			<h2>Welcome To Wissen infotech, AWS Training by Balaji sir,Bangalore,INDIA.</h2>
 			<h3>Contact @ +91-9908225806</h3>
-			<h4>I am sadasivaiah from 11 batch</h4>
+			<h4>I am Adinarayana from 11 batch</h4>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Wissen Infotech 2022</p>
+		<p>&copy; Wissen Infotech 2023</p>
 	</footer>
 </div>
 
