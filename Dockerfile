@@ -7,4 +7,4 @@ RUN tar -xvzf apache-tomcat-9.0.75.tar.gz
 EXPOSE 443
 CMD ["/apache-tomcat-9.0.75/bin/catalina.sh", "run"]
 # Dummy text to test 
-COPY target/aws-coe*.war /apache-tomcat-9.0.75/webapps/aws-coe.war
+COPY target/aws-coe*.war /apache-tomcat-9.0.76/webapps/aws-coe.war
